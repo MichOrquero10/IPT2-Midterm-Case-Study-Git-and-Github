@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(members.jpg)no-repeat;
+    background-size: cover;
+}
+.categories{
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    z-index: 1;
+    background: #B14C22;
+    opacity: 90%;
+    max-width: 260px;
+    margin: 170px;
+    padding: 10px 45px 30px 45px;
+    border: 1px solid;
+    box-shadow: 5px 10px #112c25;
+    height: 300px;
+}
+.categories h2{
+    font-size: 40px;
+    text-align: center;
+}
+.categories a{
+    font-size: 20px;
+    text-align: center;
+}
