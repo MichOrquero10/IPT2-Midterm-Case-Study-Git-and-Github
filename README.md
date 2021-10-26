@@ -1,0 +1,1 @@
+# IPT2-Midterm-Case-Study-Git-and-Github
